@@ -1,41 +1,123 @@
-# John Chrisley Delos Santos
-### PHP Frontend Development Specialist | Focused Engineer
-
-As a PHP Frontend Development Specialist, I bring a focused engineering approach to developing robust and user-centric web applications. My expertise lies in crafting efficient and scalable frontend solutions, driven by a commitment to clean code and impactful user experiences. Currently pursuing continuous growth, I maintain a Casual grind score (🌱), dedicated to honing my craft and exploring new technologies.
-
-## Core Skills
-
-My technical proficiency spans essential web development technologies, with a strong emphasis on PHP for dynamic frontend solutions.
-
-- **Languages:** PHP, HTML, CSS, JavaScript
-- **Primary Language Focus:** PHP (63.95%)
-
-
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-## Featured Projects
-
-I am dedicated to building practical and impactful web solutions. Here are some of my recent projects demonstrating my expertise:
-
-### [Aresss615.github.io](https://github.com/Aresss615/Aresss615.github.io)
-My personal portfolio, showcasing my development work and skills.
-
-### [odin-recipes](https://github.com/Aresss615/odin-recipes)
-A project developed as part of The Odin Project curriculum. Project details pending.
-
-### [foundation-the-odin-project](https://github.com/Aresss615/foundation-the-odin-project)
-Foundational exercises from The Odin Project, demonstrating core web development principles. Project details pending.
-
-## GitHub Stats
-
-I am actively contributing to open-source projects and continuously expanding my skill set.
-
+<h1 align="center">Hi 👋 I'm John Chrisley Delos Santos</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aresss615&show_icons=true&theme=dark&rank_icon=percentile" alt="Aresss615's GitHub Stats" />
+Computer Engineering Student | Aspiring Software Developer
 </p>
 
-- **Followers:** 0
-- **Total Stars:** 0
+<p align="center">
+<a href="https://johnchrisley.dev">Portfolio</a> •
+<a href="mailto:johnchrisley4@gmail.com">Email</a> •
+<a href="https://github.com/Aresss615">GitHub</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 BS Computer Engineering student at Mariano Marcos State University  
+💻 Interested in Software Development, Full-Stack Development, and Systems  
+🔧 I enjoy building practical systems that solve real problems  
+🌏 Based in Ilocos Norte, Philippines  
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://johnchrisley.dev
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Grocery Store POS System
+A point-of-sale system built for a small grocery store.
+
+**Features**
+- Inventory management
+- Product database
+- Sales tracking
+- Simple reporting system
+
+**Technologies**
+Java  
+MySQL  
+Desktop UI  
+
+---
+
+### 📚 Library Borrowing System
+A Java desktop application for managing library borrowing operations.
+
+**Features**
+- Book management  
+- Student management  
+- Borrow / return tracking  
+- Search functionality  
+
+**Technologies**
+Java  
+SQLite  
+Java Swing  
+
+---
+
+### 🌐 Personal Portfolio Website
+A responsive website used to showcase my projects and skills.
+
+**Technologies**
+HTML  
+CSS  
+JavaScript  
+
+---
+
+### 🏠 SOHO Network Setup
+Designed and implemented a Small Office Home Office (SOHO) network for our house and grocery store.
+
+**Setup Includes**
+- Router configuration  
+- Local network setup  
+- WiFi management  
+- CCTV integration  
+- Device monitoring  
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+Java  
+JavaScript  
+Python  
+SQL  
+
+### Tools
+Git  
+GitHub  
+VS Code  
+IntelliJ IDEA  
+MySQL  
+
+### Other Skills
+Networking  
+System Setup  
+Troubleshooting  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aresss615&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aresss615&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 Email: johnchrisley4@gmail.com  
+🌐 Portfolio: https://johnchrisley.dev  
+💻 GitHub: https://github.com/Aresss615
