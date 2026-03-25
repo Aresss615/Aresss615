@@ -1,111 +1,81 @@
-<h1 align="center">John Chrisley Delos Santos</h1>
-<p align="center">
-  Computer Engineering Student | Aspiring Software Developer | Systems Builder
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://johnchrisley.dev">Portfolio</a>
-  |
-  <a href="mailto:johnchrisley4@gmail.com">Email</a>
-  |
-  <a href="https://github.com/Aresss615">GitHub</a>
-</p>
+# John Chrisley Delos Santos
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Systems-0f172a?style=for-the-badge" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Based%20In-Ilocos%20Norte%2C%20PH-1d4ed8?style=for-the-badge" alt="Location badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Learning%20and%20Building-16a34a?style=for-the-badge" alt="Open to badge" />
-</p>
+### Computer Engineering student building practical software, clean interfaces, and systems that actually get used
+
+[Portfolio](https://johnchrisley.dev) | [LinkedIn](https://linkedin.com/in/johnchrisley) | [Email](mailto:johnchrisley4@gmail.com)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=I+build+projects+for+real-world+use.;Full-stack+and+desktop+app+focused.;Always+learning%2C+always+shipping." alt="Typing SVG" />
+
+</div>
 
 ---
 
-## About Me
+## A little about me
 
-I am a BS Computer Engineering student at Mariano Marcos State University with a strong interest in software development, full-stack applications, and practical systems that solve real problems.
+I am John, a BS Computer Engineering student from Mariano Marcos State University who likes building software with real-world value.
 
-I enjoy building tools that are useful in everyday environments, from business software and desktop applications to networking setups and technical troubleshooting. My goal is to keep growing into a developer who can design reliable systems, write clean code, and deliver solutions that people can actually use.
+I am most comfortable when I am making something useful: business systems, desktop apps, portfolio sites, small tools, and network setups. I care a lot about making projects feel clean, functional, and easy to use, not just technically finished.
 
----
-
-## What I Work With
-
-**Languages**  
-Java | JavaScript | Python | SQL
-
-**Tools**  
-Git | GitHub | VS Code | IntelliJ IDEA | MySQL | SQLite
-
-**Technical Interests**  
-Full-Stack Development | Desktop Applications | Systems Design | Networking | Troubleshooting
+The goal is simple: keep leveling up into the kind of developer people can trust to build solid things and figure problems out.
 
 ---
 
-## Featured Projects
+## Tech I use
 
-### Grocery Store POS System
-Point-of-sale software designed for a small grocery store environment, focused on practical daily operations.
+`Java` `PHP` `JavaScript` `TypeScript` `Python` `SQL` `HTML` `CSS`
 
-**Highlights**  
-Inventory management | Product database | Sales tracking | Basic reporting
-
-**Built With**  
-Java | MySQL | Desktop UI
-
-### Library Borrowing System
-Java desktop application for organizing library records and streamlining borrowing workflows.
-
-**Highlights**  
-Book management | Student records | Borrow and return tracking | Search functionality
-
-**Built With**  
-Java | SQLite | Java Swing
-
-### Personal Portfolio Website
-Responsive portfolio website created to present my work, skills, and projects in a clear and modern format.
-
-**Built With**  
-HTML | CSS | JavaScript
-
-### SOHO Network Setup
-Planned and implemented a small office and home office network setup for our house and grocery store.
-
-**Highlights**  
-Router configuration | Local network setup | Wi-Fi management | CCTV integration | Device monitoring
+`Git` `GitHub` `MySQL` `SQLite` `VS Code` `IntelliJ IDEA`
 
 ---
 
-## Current Focus
+## Featured builds
 
-- Strengthening my full-stack development skills
-- Building more polished and production-ready projects
-- Improving system design, networking, and software engineering fundamentals
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Aresss615&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aresss615&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Top languages"
-  />
-</p>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [roadmap.johnchrisley.dev](https://github.com/Aresss615/roadmap.johnchrisley.dev) | A roadmap-style site tied to my personal brand and growth as a developer. | HTML |
+| [Aresss615.github.io](https://github.com/Aresss615/Aresss615.github.io) | My personal portfolio site where I showcase projects, skills, and what I am building. | CSS / Frontend |
+| [Library-Borrowing-System](https://github.com/Aresss615/Library-Borrowing-System) | A Java desktop app for managing library records, student borrowing, and return workflows. | Java |
+| [Inventory-and-Sales-Management-System](https://github.com/Aresss615/Inventory-and-Sales-Management-System) | A business-focused inventory and sales system built around practical day-to-day store operations. | PHP / CSS / JavaScript |
+| [notepad-app](https://github.com/Aresss615/notepad-app) | A lightweight notes app project focused on simple functionality and clean interaction. | JavaScript |
+| [MLBB-draft-ai](https://github.com/Aresss615/MLBB-draft-ai) | An experimental drafting tool for Mobile Legends: Bang Bang with a more creative, game-focused direction. | TypeScript |
 
 ---
 
-## Connect
+## What I like building
+
+- Full-stack apps with clear real-world use
+- Desktop software that solves everyday workflows
+- Portfolio and web experiences with better visual polish
+- Systems that mix software, setup, and troubleshooting
+
+---
+
+## Right now
+
+- Improving my full-stack development skills
+- Building projects that look more polished and production-ready
+- Sharpening my problem-solving, system design, and development workflow
+
+---
+
+## GitHub snapshot
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aresss615&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&bg_color=0f172a" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aresss615&layout=compact&hide_border=true&title_color=38BDF8&text_color=cbd5e1&bg_color=0f172a" alt="Top languages" />
+</div>
+
+---
+
+## Find me here
 
 - Portfolio: [johnchrisley.dev](https://johnchrisley.dev)
-- Email: [johnchrisley4@gmail.com](mailto:johnchrisley4@gmail.com)
 - GitHub: [github.com/Aresss615](https://github.com/Aresss615)
+- LinkedIn: [linkedin.com/in/johnchrisley](https://linkedin.com/in/johnchrisley)
+- Email: [johnchrisley4@gmail.com](mailto:johnchrisley4@gmail.com)
 
-<p align="center">
-  <i>Focused on building useful software, learning fast, and growing into a dependable developer.</i>
-</p>
+<div align="center">
+  <sub>I like building things that are useful, presentable, and a little better than they need to be.</sub>
+</div>
