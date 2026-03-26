@@ -2,7 +2,7 @@
 
 # John Chrisley Delos Santos
 
-### Computer Engineering student building practical software, clean interfaces, and systems that actually get used
+### Computer Engineering student building practical software, polished interfaces, and systems people can actually use
 
 [Portfolio](https://johnchrisley.dev) | [LinkedIn](https://linkedin.com/in/johnchrisley) | [Email](mailto:johnchrisley4@gmail.com)
 
@@ -12,21 +12,32 @@
 
 ---
 
-## A little about me
+## About me
 
-I am John, a BS Computer Engineering student from Mariano Marcos State University who likes building software with real-world value.
+I am John, a BS Computer Engineering student from Mariano Marcos State University focused on building software that is useful, reliable, and cleanly designed.
 
-I am most comfortable when I am making something useful: business systems, desktop apps, portfolio sites, small tools, and network setups. I care a lot about making projects feel clean, functional, and easy to use, not just technically finished.
+I do my best work when a project solves a real problem, whether that means business systems, desktop applications, portfolio sites, internal tools, or setup-heavy technical work. I care about more than just getting something to run. I want it to feel organized, practical, and ready to be used by real people.
 
-The goal is simple: keep leveling up into the kind of developer people can trust to build solid things and figure problems out.
+My long-term goal is to become the kind of developer people trust to build solid systems, improve messy workflows, and figure things out when the path is not obvious.
 
 ---
 
-## Tech I use
+## What I bring
+
+- Practical software thinking grounded in real-world use cases
+- A mix of full-stack, desktop, and systems-oriented experience
+- Strong interest in clean UI, maintainable structure, and usability
+- A builder mindset that values shipping, learning, and iteration
+
+---
+
+## Tech stack
 
 `Java` `PHP` `JavaScript` `TypeScript` `Python` `SQL` `HTML` `CSS`
 
-`Git` `GitHub` `MySQL` `SQLite` `VS Code` `IntelliJ IDEA`
+`MySQL` `SQLite` `Git` `GitHub`
+
+`VS Code` `IntelliJ IDEA`
 
 ---
 
@@ -34,29 +45,35 @@ The goal is simple: keep leveling up into the kind of developer people can trust
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [roadmap.johnchrisley.dev](https://github.com/Aresss615/roadmap.johnchrisley.dev) | A roadmap-style site tied to my personal brand and growth as a developer. | HTML |
-| [Aresss615.github.io](https://github.com/Aresss615/Aresss615.github.io) | My personal portfolio site where I showcase projects, skills, and what I am building. | CSS / Frontend |
-| [Library-Borrowing-System](https://github.com/Aresss615/Library-Borrowing-System) | A Java desktop app for managing library records, student borrowing, and return workflows. | Java |
-| [Inventory-and-Sales-Management-System](https://github.com/Aresss615/Inventory-and-Sales-Management-System) | A business-focused inventory and sales system built around practical day-to-day store operations. | PHP / CSS / JavaScript |
-| [notepad-app](https://github.com/Aresss615/notepad-app) | A lightweight notes app project focused on simple functionality and clean interaction. | JavaScript |
-| [MLBB-draft-ai](https://github.com/Aresss615/MLBB-draft-ai) | An experimental drafting tool for Mobile Legends: Bang Bang with a more creative, game-focused direction. | TypeScript |
+| [Inventory-and-Sales-Management-System](https://github.com/Aresss615/Inventory-and-Sales-Management-System) | A business-oriented inventory and sales system designed around everyday store operations and workflow efficiency. | PHP / JavaScript / CSS |
+| [Library-Borrowing-System](https://github.com/Aresss615/Library-Borrowing-System) | A Java desktop application for handling library records, borrower tracking, and return management. | Java |
+| [Aresss615.github.io](https://github.com/Aresss615/Aresss615.github.io) | My personal portfolio site, built to present projects, skills, and the direction I am growing as a developer. | Frontend / CSS |
+| [roadmap.johnchrisley.dev](https://github.com/Aresss615/roadmap.johnchrisley.dev) | A roadmap-style website that reflects my progress, direction, and personal brand as a builder. | HTML |
+| [MLBB-draft-ai](https://github.com/Aresss615/MLBB-draft-ai) | An experimental drafting tool for Mobile Legends: Bang Bang with a more creative and game-focused product direction. | TypeScript |
+| [notepad-app](https://github.com/Aresss615/notepad-app) | A lightweight notes app centered on simple functionality and clean interaction. | JavaScript |
 
 ---
 
-## What I like building
+## What I enjoy building
 
 - Full-stack apps with clear real-world use
 - Desktop software that solves everyday workflows
-- Portfolio and web experiences with better visual polish
+- Portfolio and web experiences with strong visual polish
 - Systems that mix software, setup, and troubleshooting
 
 ---
 
-## Right now
+## Current focus
 
 - Improving my full-stack development skills
 - Building projects that look more polished and production-ready
 - Sharpening my problem-solving, system design, and development workflow
+
+---
+
+## What I am working toward
+
+I am actively growing toward software engineering work where I can contribute across implementation, interface quality, and problem-solving. I am especially interested in opportunities that value practical thinking, ownership, and continuous improvement.
 
 ---
 
