@@ -6,6 +6,8 @@
 
 [Portfolio](https://johnchrisley.dev) | [LinkedIn](https://linkedin.com/in/johnchrisley) | [Email](mailto:johnchrisley4@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Aresss615&color=38BDF8&style=flat&label=Profile+Views)
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=I+build+projects+for+real-world+use.;Full-stack+and+desktop+app+focused.;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 </div>
