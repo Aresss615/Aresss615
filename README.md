@@ -84,6 +84,8 @@ I am actively growing toward software engineering work where I can contribute ac
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aresss615&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&bg_color=0f172a" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aresss615&layout=compact&hide_border=true&title_color=38BDF8&text_color=cbd5e1&bg_color=0f172a" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Aresss615&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&background=0f172a&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=64748b" alt="GitHub streak" />
 </div>
 
 ---
